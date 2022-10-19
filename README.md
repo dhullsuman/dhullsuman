@@ -18,11 +18,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/suman-bb7829236/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" alt="https://www.linkedin.com/in/suman-bb7829236/" height="30" width="40" /></a>
-<a href="https://dhullsuman.github.io/" target="blank" border-radius="50%"><img align="center" src="https://media.istockphoto.com/vectors/letter-initial-luxurious-logo-template-premium-s-logo-golden-concept-vector-id1340928327?b=1&k=20&m=1340928327&s=612x612&w=0&h=PYO6HDC0T2fXDwvVVU_dKkWoNX6FAupXWjvHhq-g5TU=" alt="https://dhullsuman.github.io/" height="30" width="40"  border-radius="50%" /></a>
-<!-- <a href="https://codesandbox.io/dashboard/recent?workspace=222bbee5-63ed-4b07-b78f-d7e8fa829c44" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-codesandbox-an-online-code-editor-and-sharing-web-application-projects-logo-color-tal-revivo.png" alt="https://codesandbox.io/dashboard/recent?workspace=222bbee5-63ed-4b07-b78f-d7e8fa829c44" height="30" width="40" /></a>
-<a href="https://www.instagram.com/niteshsindhu5/" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/2x/instagram-new.png" alt="https://www.instagram.com/niteshsindhu5/" height="30" width="40" /></a> -->
-<!-- <a href="https://www.youtube.com/channel/UCnOdCvjWebQgrAHgWKmRtaw" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="https://www.youtube.com/channel/UCnOdCvjWebQgrAHgWKmRtaw" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/suman-bb7829236/" target="_blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" alt="https://www.linkedin.com/in/suman-bb7829236/" height="30" width="40" /></a>
+<a href="https://dhullsuman.github.io/" target="_blank" border-radius="50%"><img align="center" src="https://media.istockphoto.com/vectors/letter-initial-luxurious-logo-template-premium-s-logo-golden-concept-vector-id1340928327?b=1&k=20&m=1340928327&s=612x612&w=0&h=PYO6HDC0T2fXDwvVVU_dKkWoNX6FAupXWjvHhq-g5TU=" alt="https://dhullsuman.github.io/" height="30" width="40"  border-radius="50%" /></a>
+<!-- <a href="https://codesandbox.io/dashboard/recent?workspace=222bbee5-63ed-4b07-b78f-d7e8fa829c44" target="_blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-codesandbox-an-online-code-editor-and-sharing-web-application-projects-logo-color-tal-revivo.png" alt="https://codesandbox.io/dashboard/recent?workspace=222bbee5-63ed-4b07-b78f-d7e8fa829c44" height="30" width="40" /></a>
+<a href="https://www.instagram.com/niteshsindhu5/" target="_blank"><img align="center" src="https://img.icons8.com/3d-fluency/2x/instagram-new.png" alt="https://www.instagram.com/niteshsindhu5/" height="30" width="40" /></a> -->
+<!-- <a href="https://www.youtube.com/channel/UCnOdCvjWebQgrAHgWKmRtaw" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="https://www.youtube.com/channel/UCnOdCvjWebQgrAHgWKmRtaw" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
