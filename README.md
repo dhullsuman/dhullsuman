@@ -17,6 +17,7 @@
 - 💬 Ask me about _HTML,CSS,JavaScript,ChakraUI,React Native,Node JS_
 
 - 📫 How to reach me *suman1997dhull@gmail.com*
+- Find my resume <a target="_blank" href="https://drive.google.com/file/d/1MpM0hx_z1orh_0doTLNW5BoU_FXJ_VIE/view">RESUME</a>
 <!-- - 📫 How to reach me *suman1997dhull@gmail.com* -->
 
 <h3 align="left">Connect with me:</h3>
