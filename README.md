@@ -1,4 +1,4 @@
-![MasterHead](https://www.timefortheweb.com/blog/wp-content/uploads/2017/10/timefortheweb-Blog-Image.gif)
+![MasterHead]([https://camo.githubusercontent.com/759fb8a71fb4f330b87e3f0d9ed9824498ee8cbc123c40934c68ba3c891204bf/68747470733a2f2f696d672e6672656570696b2e636f6d2f7072656d69756d2d766563746f722f646576656c6f70696e672d70726f6772616d6d696e672d636f64696e672d746563686e6f6c6f676965732d656e67696e656572696e672d646576656c6f706d656e742d70726f6772616d6d65722d646576656c6f7065722d6372656174652d636f64652d6c6170746f702d73637265656e2d776974682d636f6465732d646576656c6f7065722d776f726b2d776974682d7461736b2d636f64696e672d736f6674776172652d7573696e672d70635f3435383434342d313135332e6a70673f773d32303030])
 
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Suman</h1>
 <p align="center">
@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhullsuman&label=Profile%20views&color=0e75b6&style=flat" alt="Suman" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhullsuman" alt="dhull" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966">
+<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966]">
 
 - 🔭 I’m currently working on _Prenting Press Website_
 
